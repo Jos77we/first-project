@@ -1,4 +1,10 @@
 .view{
-    height: 500px;
+    height: 600px;
     background: linear-gradient(90deg, #D4145A, #FBB03B 100%);
+}
+
+.box{
+    height: 480px;
+    margin: 0px 40px;
+    background-color: #ffffff34;
 }
