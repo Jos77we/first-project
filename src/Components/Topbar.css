@@ -1,0 +1,21 @@
+.layout {
+    height: 80px;
+    background-color: #ffffff50;
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo{
+    flex: 3.0;
+    color: white;
+    text-align: left;
+}
+
+.elements{
+    flex: 1.0;
+    display: flex;
+    font-family: Quicksand;
+    font-weight: bolder;
+    color: white;
+}
