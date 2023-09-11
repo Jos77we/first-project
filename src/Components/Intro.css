@@ -1,10 +1,25 @@
 .view{
-    height: 600px;
+    height: 700px;
     background: linear-gradient(90deg, #D4145A, #FBB03B 100%);
+    
+    
 }
 
 .box{
-    height: 480px;
-    margin: 0px 40px;
+    height: 500px;
+    margin: 20px 40px;
     background-color: #ffffff34;
+    border-radius: 6px;
+    display: flex;
+    grid-template-columns: auto auto;
+    
+    
 }
+
+.section-1, .section-2{
+    width: 50%;
+    height: 95%;
+    margin: 5px 40px;
+}
+
+

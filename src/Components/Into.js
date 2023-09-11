@@ -9,7 +9,8 @@ const Into = () => {
         <Topbar/>
         </div>
         <div className='box'>
-            <p style={{fontSize:'2.3rem'}}>Hello</p>
+            <div className='section-1'></div>
+            <div className='section-2'></div>
         </div>
     </div>
   )
